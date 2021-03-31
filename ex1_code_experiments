@@ -1,3 +1,7 @@
 #creating bash script for screen brightness control 
 xrandr --output DP-1 --brightness 0.6 
 redshift -O 4500 
+#now to this point and leading
+
+echo "created a branch and continuing"
+
